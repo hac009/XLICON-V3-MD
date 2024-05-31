@@ -15,22 +15,22 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : XLICON-V3-MD
-//  * @author : salmanytofficial
-//  * @youtube : https://www.youtube.com/@s4salmanyt
-//   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
+//  * @project_name : MMTeamX-V1-MD
+//  * @author : motamarid mohsin
+//  * @facebook : https://www.facebook.com/mhn.layz
+//   * @description : MMTeamX-V1 ,A Multi-functional whatsapp user bot.
 //*
 //*
-//base by DGXeon
+//base by motamarid mohsin
 //re-upload? recode? copy code? give credit ya :)
-//Instagram: unicorn_xeon13
+//Instagram: mohsin__layz
 //Telegram: t.me/ahmmitech
-//GitHub: @salmanytofficial
-//WhatsApp: +923184070915
+//GitHub: @hac009
+//WhatsApp: +34612236339
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
-//   * Created By Github: DGXeon.
-//   * Credit To Xeon
-//   * © 2024 XLICON-V3-MD.
+//   * Created By Github: motamarid mohsin.
+//   * Credit To motamarid mohsin
+//   * © 2024 MMTeamX-V1-MD.
 // ⛥┌┤
 // */
 
